@@ -38,7 +38,8 @@ export default function App() {
       </View>
 
       <EpicFloatingInput
-        inputType={"solid"}
+        inputType={"outline"}
+        mode="dark"
         type="muted"
         placeholder="Active Input"
       />
