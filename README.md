@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Epic Floating Input</h1>
 
-[![npm](https://img.shields.io/npm/v/epic-floating-input-react-native?style=flat-square)](https://www.npmjs.com/package/epic-floating-input-react-native) [![npm](https://img.shields.io/npm/l/epic-floating-input-react-native?style=flat-square)](https://www.npmjs.com/package/epic-floating-input-react-native) [![npm](https://img.shields.io/badge/types-included-blue?style=flat-square)](https://www.npmjs.com/package/epic-floating-input-react-native)
+[![npm](https://img.shields.io/npm/v/epic-floating-input-react-native?style=flat-square)](https://www.npmjs.com/package/epic-floating-input-react-native) [![npm](https://img.shields.io/npm/l/epic-floating-input-react-native?style=flat-square)](https://www.npmjs.com/package/epic-floating-input-react-native) [![npm](https://img.shields.io/badge/types-included-blue?style=flat-square)](https://www.npmjs.com/package/epic-floating-input-react-native) [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
 
 <img src="./previews/main.png">
 
