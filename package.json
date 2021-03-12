@@ -1,6 +1,6 @@
 {
   "name": "epic-floating-input-react-native",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An elegant, fast & animated floating input component for react native.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
