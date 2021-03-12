@@ -13,7 +13,8 @@ An elegant, fast & animated floating input component for react native
 
 ## Features
 
-- `60FPS` smooth animation for all presets. 🔥
+- `60FPS` smooth animation. 🔥
+- `Dark` mode supported.
 - Standalone usage. ✌️
 - Compatible `Expo`.👌
 - Runs smoothly on Both `Android` & `IOS`
