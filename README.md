@@ -15,7 +15,7 @@ import EpicFloatingInputReactNative from "epic-floating-input-react-native";
 
 // ...
 
-const result = await EpicFloatingInputReactNative.multiply(3, 7);
+
 ```
 
 ## Contributing

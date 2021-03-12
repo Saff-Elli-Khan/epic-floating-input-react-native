@@ -1,6 +1,6 @@
 {
   "name": "epic-floating-input-react-native",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An elegant, fast & animated floating input component for react native.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -34,7 +34,12 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "floating-input",
+    "input",
+    "animated",
+    "dribbble-ui",
+    "typescript"
   ],
   "repository": "https://github.com/Saff-Elli-Khan/epic-floating-input-react-native",
   "author": "Abdullah Khan <mohammadabdullahkhan@mail.com> (https://github.com/Saff-Elli-Khan/epic-floating-input-react-native)",
