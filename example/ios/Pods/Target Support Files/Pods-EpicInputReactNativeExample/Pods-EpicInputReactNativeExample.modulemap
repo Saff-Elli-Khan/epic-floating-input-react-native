@@ -1,0 +1,6 @@
+module Pods_EpicInputReactNativeExample {
+  umbrella header "Pods-EpicInputReactNativeExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
